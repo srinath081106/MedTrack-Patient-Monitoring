@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Tkinter and sqlite3 are part of standard Python installations.
